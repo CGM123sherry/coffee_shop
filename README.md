@@ -45,6 +45,9 @@ The `Customer` and `Coffee` entities have a many-to-many relationship through th
   pipenv shell
   ```
 - Install any necessary packages, such as `pytest` for testing:
+
   ```bash
   pipenv install pytest
+  run pytest and ensure to pass all the test
+
   ```
